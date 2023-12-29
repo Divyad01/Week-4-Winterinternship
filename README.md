@@ -32,6 +32,6 @@ Interactive plots using Plotly
 Choropleth maps showcasing global data
 
 ## TED Talk Reference
-The project was inspired by ##[Hans Rosling's TED Talk](https://www.ted.com/talks/hans_rosling_the_best_stats_you_ve_ever_seen)
+The project was inspired by [Hans Rosling's TED Talk](https://www.ted.com/talks/hans_rosling_the_best_stats_you_ve_ever_seen)
  aiming to emulate his data storytelling and visualization techniques.
 
